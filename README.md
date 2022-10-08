@@ -1,16 +1,20 @@
-### Hi there 👋
+# 🏄‍♂️ Blaž Stojanovič
 
-<!--
-**BlazStojanovic/BlazStojanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi fellow interweb surfer 👋 🏄🏼‍♀️ !
 
-Here are some ideas to get you started:
+Thanks for stopping by, my name is Blaž and welcome to my GitHub profile..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I'm a Machine Learning Engineer and ex-Computational Physicist interested in building useful models of the world 🌍
+
+- 💼 I’m currently working on changing the world of Enterprise AI at [Kumo.ai](https://www.kumo.ai)
+
+- 🌱 I’m currently learning about building and deploying large scale ML systems, geometric DL, NLP, and more...
+
+- 💬 Ask me about complex systems, computational physics, impacts of technology, and the outdoors 🏔
+
+- 📫 How to reach me:
+  * twitter: [@blazstojanovic](https://twitter.com/blazstojanovic)
+  * linkedin: [li/blazstojanovic](https://linkedin.com/in/bstojanovic)
+  * email: blaz@stojanovic.si
