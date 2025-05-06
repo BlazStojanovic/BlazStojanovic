@@ -10,7 +10,7 @@ Thanks for stopping by, my name is Blaž and welcome to my GitHub profile..
 
 - 💼 I’m currently working on changing the world of Enterprise AI at [Kumo.ai](https://www.kumo.ai)
 
-- 🌱 I’m currently learning about building and deploying large scale ML systems, geometric DL, NLP, and more...
+- 🌱 I’m currently learning about building and deploying large scale ML systems, agents, evals, and more...
 
 - 💬 Ask me about complex systems, computational physics, impacts of technology, and the outdoors 🏔
 
