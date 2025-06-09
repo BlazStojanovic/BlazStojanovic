@@ -6,9 +6,9 @@ Thanks for stopping by, my name is Blaž and welcome to my GitHub profile..
 
 ---
 
-- 🔭 I'm a Machine Learning Engineer and ex-Computational Physicist interested in building useful models of the world 🌍
+- 🔭 I'm an Engineer and ex-Computational Physicist interested in building useful models of the world 🌍
 
-- 💼 I’m currently working on changing the world of Enterprise AI at [Kumo.ai](https://www.kumo.ai)
+- 💼 I’m currently working on agents, models and AI more broadly at [Kumo.ai](https://www.kumo.ai)
 
 - 🌱 I’m currently learning about building and deploying large scale ML systems, agents, evals, and more...
 
