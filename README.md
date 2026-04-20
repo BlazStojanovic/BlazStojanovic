@@ -15,7 +15,7 @@ Thanks for stopping by, my name is Blaž and welcome to my GitHub profile..
 - 💬 Ask me about complex systems, computational physics, impacts of technology, and the outdoors 🏔
 
 - 📫 How to reach me:
-  * twitter: [@blazstojanovic](https://twitter.com/blazstojanovic)
+  * x: [@blazstojanovic](https://x.com/BlazStojanovic)
   * linkedin: [li/blazstojanovic](https://linkedin.com/in/bstojanovic)
-  * email: blaz@stojanovic.si
+  * email: blaz (at) stojanovic (dot) si
   * webpage: [bstojanovic](https://blazstojanovic.github.io/bstojanovic/)
