@@ -6,11 +6,11 @@ Thanks for stopping by, my name is Blaž and welcome to my GitHub profile..
 
 ---
 
-- 🔭 I'm an Engineer and ex-Computational Physicist interested in building useful models of the world 🌍
+- 🔭 I'm an Researcher and ex-Computational Physicist interested in building useful models of the world 🌍
 
-- 💼 I’m currently working synthetic data at [@poolsideai](https://poolside.ai)
+- 💼 I’m currently working synthetic data at [@nvidia](https://www.nvidia.com/en-us/)
 
-- 🌱 I’m currently learning about rl-environments, data curriculums, and how to squeeze signal from seed data...
+- 🌱 I’m currently learning about synthetic rl-envs, data curriculums, interpretability and learning dynamics of LLMs...
 
 - 💬 Ask me about complex systems, computational physics, impacts of technology, and the outdoors 🏔
 
